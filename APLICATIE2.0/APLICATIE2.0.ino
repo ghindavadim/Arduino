@@ -1,5 +1,5 @@
 #include <SoftwareSerial.h> // TX RX software library for bluetooth
-
+//comentariu pentru testare Git
 #include <Servo.h> // servo library 
 Servo myservo1, myservo2, myservo3, myservo4, myservo5, myservo6; // servo name
 
